@@ -1,2 +1,2 @@
 USE Curso;
-SELECT * FROM clientes WHERE Cli_Id LIKE '%123%'
+SELECT * FROM clientes WHERE Cli_RazonSocial LIKE '%pab%'
