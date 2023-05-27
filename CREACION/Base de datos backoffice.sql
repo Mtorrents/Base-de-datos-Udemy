@@ -1,4 +1,9 @@
+/*Creacion base de datos backoffice*/
+
+-- Creo la base de datos backoffice
 create database backoffice;
+
+-- Uso la base de datos backoffice
 use backoffice;
 
 -- drop table clientes;

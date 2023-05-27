@@ -1,3 +1,5 @@
+/*Creacion de la base de datos curso*/
+
 -- --------------------------------------------------------
 -- Host:                         127.0.0.1
 -- Versión del servidor:         5.1.72-community - MySQL Community Server (GPL)
